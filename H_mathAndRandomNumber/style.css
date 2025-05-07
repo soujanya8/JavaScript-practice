@@ -1,0 +1,14 @@
+#roll{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    padding: 10px 20px;
+    border-width: 25px; 
+    border-radius: 1.25em; 
+}
+#output{
+    text-align: center;
+    font-size: 1.5em;
+}
+.mydiv{
+    text-align: center;
+}
