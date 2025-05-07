@@ -1,0 +1,22 @@
+#myLabel{
+    display: block;
+    text-align: center;
+    font-size: 5em;
+    
+}
+#btnContainer{
+    text-align: center;
+      
+}
+.btns{
+    padding: 10px 20px;
+    font-size: 1.2em;
+    color:white;
+    background-color:rgb(129, 129, 214);
+    cursor: pointer;
+    border-radius: 1.025em; 
+    transition: background-color 0.25s;
+}
+.btns:hover{
+    background-color: rgb(61, 61, 146);
+}
